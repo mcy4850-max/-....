@@ -1,0 +1,5 @@
+{
+  "name": "Focus Calendar & Timer",
+  "description": "A productivity app combining a calendar-based todo list with a focus timer and stopwatch. Features daily tasks, monthly goals, and posture reminders.",
+  "requestFramePermissions": []
+}
